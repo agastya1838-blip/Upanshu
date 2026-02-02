@@ -16,7 +16,7 @@ const siteConfig = {
       '\n' +
       'Christ (Deemed to be University) Bannerghatta Road Campus\n' +
       '\n' +
-      'Optional: CPCG Best',
+      'Optional: 6-7',
     tagline: 'supreme leader',
     location: 'India',
   },
